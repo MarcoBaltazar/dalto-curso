@@ -1,5 +1,5 @@
 #duracion de cursos para aprender loq ue hemos aprendido hasta ahora con dalto
-min=3.5
+min=1.5
 max=7.0
 pro=4.0
 este=2.5
