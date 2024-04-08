@@ -2,7 +2,7 @@
 min=1.5
 max=7.0
 pro=4.0
-este=2.5
+este=1.5
 
 #sacamos la diferencia de porcentajes con otros cursos
 
