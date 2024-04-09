@@ -17,3 +17,5 @@ print(f"El curso de dalto es {dif_pro}% mas rapido que el promedio")
 dif_max=100-este/max*100
 
 print(f"El curso de dalto es {round(dif_max,3)}% mas rapido que el mas lento")
+
+print("Estos son todos los cambios que yo hice en el repo")
